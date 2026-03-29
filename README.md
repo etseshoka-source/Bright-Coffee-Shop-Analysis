@@ -1,8 +1,8 @@
 # Bright-Coffee-Shop-Analysis
-This project analyzes Bright Coffee Shop sales data to discover insights into sales performance, customer behavior and product trends. 
+This project analyzes Bright Coffee Shop historical sales data to discover insights into sales performance, customer behavior and product trends. 
 
 ##Aim
-To provide the new CEO with an analysis that will assist in making informed decision to improve revenue and operational effeciency.
+To provide the new CEO with an analysis that will assist in making an informed decision to enhance revenue and operational effeciency.
 
 ##Objectives
 -To analyze sales distribution by product category
